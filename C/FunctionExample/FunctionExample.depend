@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619049307 source:g:\rampup\c\functionexample\max.c
+
+1619050224 source:g:\rampup\c\functionexample\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620137758 source:g:\rampup\c\task_id_012\main.c
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+
