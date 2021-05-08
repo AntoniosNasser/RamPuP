@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619297346 source:g:\rampup\c\task_id_005\functions.c
+	<stdio.h>
+
+1619297571 source:g:\rampup\c\task_id_005\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1619297491 g:\rampup\c\task_id_005\header.h
+

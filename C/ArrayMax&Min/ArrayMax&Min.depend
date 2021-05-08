@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619058438 source:g:\rampup\c\arraymax&min\main.c
+	<stdio.h>
+	<stdlib.h>
+	"maxandminofarray.h"
+
+1619058084 g:\rampup\c\arraymax&min\maxandminofarray.h
+
+1619058387 source:g:\rampup\c\arraymax&min\maxandminofarray.c
+	<stdio.h>
+

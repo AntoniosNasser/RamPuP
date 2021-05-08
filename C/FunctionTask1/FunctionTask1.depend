@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619056004 source:g:\rampup\c\functiontask1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1619056054 source:g:\rampup\c\functiontask1\reversenumfunc.c
+	<stdio.h>
+	<stdlib.h>
+
